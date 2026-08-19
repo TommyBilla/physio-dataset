@@ -1,0 +1,22 @@
+video_id,exercise,filename,path,duration,fps,frame_count
+good_3,heel slides,3.MOV,heel slides/good/3.MOV,7.74,29.97002997002997,232
+good_4,heel slides,4.MOV,heel slides/good/4.MOV,6.338333,29.97002997002997,190
+good_5,heel slides,5.MOV,heel slides/good/5.MOV,7.638333,29.97002997002997,229
+good_1,heel slides,1.MOV,heel slides/good/1.MOV,7.306667,29.97002997002997,219
+good_2,heel slides,2.MOV,heel slides/good/2.MOV,8.475,29.97002997002997,254
+bad_16,heel slides,16.MOV,heel slides/bad/16.MOV,4.971667,29.97002997002997,149
+bad_11,heel slides,11.MOV,heel slides/bad/11.MOV,3.203333,29.97002997002997,96
+bad_10,heel slides,10.MOV,heel slides/bad/10.MOV,4.705,29.97002997002997,141
+bad_14,heel slides,14.MOV,heel slides/bad/14.MOV,4.303333,29.97002997002997,129
+bad_3,heel slides,3.MOV,heel slides/bad/3.MOV,5.905,29.97002997002997,177
+bad_4,heel slides,4.MOV,heel slides/bad/4.MOV,5.505,29.97002997002997,165
+bad_9,heel slides,9.MOV,heel slides/bad/9.MOV,4.836667,29.97002997002997,145
+bad_6,heel slides,6.MOV,heel slides/bad/6.MOV,5.505,29.97002997002997,165
+bad_15,heel slides,15.MOV,heel slides/bad/15.MOV,3.903333,29.97002997002997,117
+bad_5,heel slides,5.MOV,heel slides/bad/5.MOV,6.438333,29.97002997002997,193
+bad_12,heel slides,12.MOV,heel slides/bad/12.MOV,5.371667,29.97002997002997,161
+bad_1,heel slides,1.MOV,heel slides/bad/1.MOV,5.105,29.97002997002997,153
+bad_8,heel slides,8.MOV,heel slides/bad/8.MOV,4.436667,29.97002997002997,133
+bad_2,heel slides,2.MOV,heel slides/bad/2.MOV,4.303333,29.97002997002997,129
+bad_13,heel slides,13.MOV,heel slides/bad/13.MOV,4.17,29.97002997002997,125
+bad_7,heel slides,7.MOV,heel slides/bad/7.MOV,4.836667,29.97002997002997,145

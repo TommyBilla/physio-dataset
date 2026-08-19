@@ -1,0 +1,23 @@
+video_id,exercise,filename,path,duration,fps,frame_count
+good_3,seated knee extensions,3.MOV,seated knee extensions/good/3.MOV,2.67,29.97002997002997,80
+good_4,seated knee extensions,4.MOV,seated knee extensions/good/4.MOV,2.035,29.97002997002997,61
+good_5,seated knee extensions,5.MOV,seated knee extensions/good/5.MOV,2.468333,29.97002997002997,74
+good_1,seated knee extensions,1.MOV,seated knee extensions/good/1.MOV,3.036667,29.97002997002997,91
+good_2,seated knee extensions,2.MOV,seated knee extensions/good/2.MOV,2.503333,29.97002997002997,75
+bad_16,seated knee extensions,16.MOV,seated knee extensions/bad/16.MOV,2.57,29.97002997002997,77
+bad_11,seated knee extensions,11.MOV,seated knee extensions/bad/11.MOV,2.868333,29.97002997002997,86
+bad_10,seated knee extensions,10.MOV,seated knee extensions/bad/10.MOV,2.668333,29.97002997002997,80
+bad_14,seated knee extensions,14.MOV,seated knee extensions/bad/14.MOV,3.103333,29.97002997002997,93
+bad_17,seated knee extensions,17.MOV,seated knee extensions/bad/17.MOV,2.935,29.97002997002997,88
+bad_3,seated knee extensions,3.MOV,seated knee extensions/bad/3.MOV,2.701667,29.97002997002997,81
+bad_4,seated knee extensions,4.MOV,seated knee extensions/bad/4.MOV,3.103333,29.97002997002997,93
+bad_9,seated knee extensions,9.MOV,seated knee extensions/bad/9.MOV,3.101667,29.97002997002997,93
+bad_6,seated knee extensions,6.MOV,seated knee extensions/bad/6.MOV,2.835,29.97002997002997,85
+bad_15,seated knee extensions,15.MOV,seated knee extensions/bad/15.MOV,3.768333,29.97002997002997,113
+bad_5,seated knee extensions,5.MOV,seated knee extensions/bad/5.MOV,3.136667,29.97002997002997,94
+bad_12,seated knee extensions,12.MOV,seated knee extensions/bad/12.MOV,2.703333,29.97002997002997,81
+bad_1,seated knee extensions,1.MOV,seated knee extensions/bad/1.MOV,3.203333,29.97002997002997,96
+bad_8,seated knee extensions,8.MOV,seated knee extensions/bad/8.MOV,2.568333,29.97002997002997,77
+bad_2,seated knee extensions,2.MOV,seated knee extensions/bad/2.MOV,3.903333,29.97002997002997,117
+bad_13,seated knee extensions,13.MOV,seated knee extensions/bad/13.MOV,2.968333,29.97002997002997,89
+bad_7,seated knee extensions,7.MOV,seated knee extensions/bad/7.MOV,2.836667,29.97002997002997,85

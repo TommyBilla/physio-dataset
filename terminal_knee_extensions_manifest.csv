@@ -1,0 +1,12 @@
+video_id,exercise,filename,path,duration,fps,frame_count
+good_3,terminal knee extensions,3.MOV,terminal knee extensions/good/3.MOV,3.136667,29.97002997002997,94
+good_4,terminal knee extensions,4.MOV,terminal knee extensions/good/4.MOV,2.735,29.97002997002997,82
+good_5,terminal knee extensions,5.MOV,terminal knee extensions/good/5.MOV,3.703333,29.97002997002997,111
+good_1,terminal knee extensions,1.MOV,terminal knee extensions/good/1.MOV,3.903333,29.97002997002997,117
+good_2,terminal knee extensions,2.MOV,terminal knee extensions/good/2.MOV,2.57,29.97002997002997,77
+bad_3,terminal knee extensions,3.MOV,terminal knee extensions/bad/3.MOV,3.636667,29.97002997002997,109
+bad_4,terminal knee extensions,4.MOV,terminal knee extensions/bad/4.MOV,3.77,29.97002997002997,113
+bad_6,terminal knee extensions,6.MOV,terminal knee extensions/bad/6.MOV,3.77,29.97002997002997,113
+bad_5,terminal knee extensions,5.MOV,terminal knee extensions/bad/5.MOV,3.501667,29.97002997002997,105
+bad_1,terminal knee extensions,1.MOV,terminal knee extensions/bad/1.MOV,4.57,29.97002997002997,137
+bad_2,terminal knee extensions,2.MOV,terminal knee extensions/bad/2.MOV,3.903333,29.97002997002997,117
